@@ -1,10 +1,8 @@
 {
-	"version": "1.17.6",
+	"version": "1.18.0",
 	"changelog": [
-		"Added a new node: Knowledge base answer node.",
-		"Fixed Goto node can not choose go-to sub-flow issue.",
-		"Fixed a number of issues",
-		"Optimized the navigation menu",
-		"Upgraded dependencies"
+		"Highlight: LlmChatNode now support streaming response.",
+		"Upgraded many dependencies.",
+		"Several improvements."
 	]
 }
