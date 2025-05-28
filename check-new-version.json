@@ -1,6 +1,7 @@
 {
-	"version": "1.18.0",
+	"version": "1.19.0",
 	"changelog": [
+		"Highlight: Dialog nodes now support using large models to generate responses.",
 		"Highlight: LlmChatNode now support streaming response.",
 		"Upgraded many dependencies.",
 		"Several improvements."
